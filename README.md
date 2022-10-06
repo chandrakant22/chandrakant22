@@ -6,4 +6,4 @@
 
 I spend most of my time researching how to make learning fun and make hard concepts easy to understand. I apply everything I discover to my courses. In my courses, you'll find lots of geeky terms but also lots of explanations and key points to make sure everything is easy to understand.
 
-Keep Learning!    I'll be there for you in every step of your learning!
+<h3>Keep Learning!</h3> I'll be there for you in every step of your learning!
