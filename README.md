@@ -4,3 +4,6 @@
 <!--[![Website Badge](https://img.shields.io/badge/-chandrakant.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://asterisc.in/chandrakant/)](https://asterisc.in/chandrakant/)-->
 
 
+I spend most of my time researching how to make learning fun and make hard concepts easy to understand. I apply everything I discover to my courses. In my courses, you'll find lots of geeky terms but also lots of explanations and key points to make sure everything is easy to understand.
+
+Keep Learning!    I'll be there for you in every step of your learning!
