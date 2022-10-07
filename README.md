@@ -7,10 +7,10 @@
 I spend most of my time researching how to make learning fun and make hard concepts easy to understand. I apply everything I discover to my courses. In my courses, you'll find lots of geeky terms but also lots of explanations and key points to make sure everything is easy to understand.
 
 <h3>Courses 2022</h3>
+<a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br></br>
 <a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br>
-<a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br></br>
 
 <h3><a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Student Review</a></h3>
 
