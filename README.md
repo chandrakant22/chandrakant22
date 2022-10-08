@@ -19,3 +19,5 @@ I spend most of my time researching how to make learning fun and make hard conce
 
 
 <h4>Keep Learning!</h4> I'll be there for you in every step of your learning!
+
+ ## 🔥 Visitor Count ![Visitor Count](https://profile-counter.glitch.me/{chandrakant22}/count.svg)
