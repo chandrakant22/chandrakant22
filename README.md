@@ -13,8 +13,8 @@ I spend most of my time researching how to make learning fun and make hard conce
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></br>
 
 <h3>What my students say about my course?</h3>
-<a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Video Review</a>
-<a href="https://g.page/asterisc-computer?share">Google Review</a>
+<a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Video Review</a> | 
+<a href="https://g.page/asterisc-computer?share">Google Review</a> | 
 <a href="https://asterisc.in/testimonials/">Website Review</a>
 
 
