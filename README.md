@@ -7,7 +7,7 @@
 I spend most of my time researching how to make learning fun and make hard concepts easy to understand. I apply everything I discover to my courses. In my courses, you'll find lots of geeky terms but also lots of explanations and key points to make sure everything is easy to understand.
 
 Our organization
-<a href="https://asterisc.in/">Asterisc Computer Institute</a>
+<a href="https://asterisc.in/">Asterisc Computer Institute</a> And
 <a href="http://www.technocrat.asterisc.in/">Asterisc Technocrat Pvt. Ltd.</a>
 
 <h3>Courses 2022</h3>
