@@ -13,7 +13,7 @@ Our organization<br/>
 
 
 
-<table style="width: 100%;  border: 0px;">
+<table style="width: 100%">
 
 <tr>
 <th><h3>Courses 2022</h3></th>
