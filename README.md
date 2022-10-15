@@ -2,18 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-chandrakant22-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrakant22/)](https://www.linkedin.com/in/chandrakant22/) [![Instagram Badge](https://img.shields.io/badge/-@chandrakant22-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chandrakant22/)](https://instagram.com/chandrakant22) [![Twitter Badge](https://img.shields.io/badge/-@chandrakant22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chandrakant_22)](https://twitter.com/chandrakant_22) [![YouTube Badge](https://img.shields.io/badge/-@CHANDRAKANT22-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC3nPrwX-1PimRT7qafhkvrA)](https://www.youtube.com/channel/UC3nPrwX-1PimRT7qafhkvrA)
 <!--[![Website Badge](https://img.shields.io/badge/-chandrakant.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://asterisc.in/chandrakant/)](https://asterisc.in/chandrakant/)-->
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
-}
 
-th, td {
-  text-align: left;
-  padding: 16px;
-}
-</style>
+
 
 I spend most of my time researching how to make learning fun and make hard concepts easy to understand. I apply everything I discover to my courses. In my courses, you'll find lots of geeky terms but also lots of explanations and key points to make sure everything is easy to understand.
 
@@ -23,7 +13,7 @@ Our organization<br/>
 
 
 
-<table>
+<table style="border-collapse: collapse,width: 100%;">
 
 <tr>
 <th><h3>Courses 2022</h3></th>
