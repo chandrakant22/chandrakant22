@@ -13,13 +13,45 @@ here i learn new skills
 <a href="https://asterisc.in/">Asterisc Computer Institute</a> where i teach new skills.
 
 
+<table>
+<tr>
+ <th>
+ <h3>Courses 2022</h3>
+ </th>
+<th>
+<h3>Blogs</h3>
+</th>
+</tr>
 
+<tr>
+
+ <td width="50%">
+ <a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></br>
+ </td>
+ 
+ <td>
+ <a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
+<a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></br>
+ </td>
+ 
+</tr>
+</table>
+ 
+ 
+ 
+ 
+ <!--
 <h3>Courses 2022</h3>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br>
 <a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></br>
-
+-->
 
 <h3>What my students say about my course?</h3>
 <a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Video Review</a> | 
