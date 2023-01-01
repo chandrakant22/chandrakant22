@@ -16,7 +16,7 @@ here i learn new skills
 <table>
 <tr>
  <th>
- <h3>Courses 2022</h3>
+ <h3>Courses 2023</h3>
  </th>
 <th>
 <h3>Blogs</h3>
@@ -34,7 +34,8 @@ here i learn new skills
  </td>
  
  <td>
-Coming soon
+<li><a href="https://github.com/chandrakant22/NetFlix-Exploratory-Data-Analysis-and-Data-Visualisation">NetFlix Exploratory Data Analysis and Data Visualisation
+</a></br></li>
  </td>
  
 </tr>
