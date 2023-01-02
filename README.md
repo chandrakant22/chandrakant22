@@ -36,6 +36,8 @@ here i learn new skills
  <td>
 <li><a href="https://github.com/chandrakant22/NetFlix-Exploratory-Data-Analysis-and-Data-Visualisation">NetFlix Exploratory Data Analysis and Data Visualisation
 </a></br></li>
+<li><a href="https://github.com/chandrakant22/NetFlix-Movies-and-TV-shows-EDA-and-Data-Visualisation/">NetFlix Movies & TV shows EDA and Data Visualisation
+</a></br></li>
  </td>
  
 </tr>
