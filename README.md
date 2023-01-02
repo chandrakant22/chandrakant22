@@ -25,7 +25,7 @@ here i learn new skills
 
 <tr>
 
- <td width="70%">
+ <td width="50%">
  <ul>
 <li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br></li>
 <li><a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br></li>
@@ -33,7 +33,7 @@ here i learn new skills
 <li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></li>
  </td>
  
- <td>
+ <td width="50%">
 <li><a href="https://github.com/chandrakant22/NetFlix-Exploratory-Data-Analysis-and-Data-Visualisation">NetFlix Exploratory Data Analysis and Data Visualisation
 </a></br></li>
 <li><a href="https://github.com/chandrakant22/NetFlix-Movies-and-TV-shows-EDA-and-Data-Visualisation/">NetFlix Movies & TV shows EDA and Data Visualisation
