@@ -1,10 +1,6 @@
 <!--<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="900"/>-->
 
-## नमस्ते World, This is <a href="https://asterisc.in/chandrakant/">Chandrakant Bobade</a> <!--👋--> 
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<img src="https://komarev.com/ghpvc/?username=chandrakant22&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="chandrakant22" />
+## नमस्ते World, This is <a href="https://asterisc.in/chandrakant/">Chandrakant Bobade</a> <!--👋--><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://komarev.com/ghpvc/?username=chandrakant22&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="chandrakant22" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-chandrakant22-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrakant22/)](https://www.linkedin.com/in/chandrakant22/) [![Instagram Badge](https://img.shields.io/badge/-@chandrakant22-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chandrakant22/)](https://instagram.com/chandrakant22) [![Twitter Badge](https://img.shields.io/badge/-@chandrakant22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chandrakant_22)](https://twitter.com/chandrakant_22) [![YouTube Badge](https://img.shields.io/badge/-@CHANDRAKANT22-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC3nPrwX-1PimRT7qafhkvrA)](https://www.youtube.com/channel/UC3nPrwX-1PimRT7qafhkvrA)
 <!--[![Website Badge](https://img.shields.io/badge/-chandrakant.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://asterisc.in/chandrakant/)](https://asterisc.in/chandrakant/)-->
