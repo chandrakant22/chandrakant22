@@ -60,7 +60,7 @@ here i learn new skills
 <a href="https://asterisc.in/testimonials/">Website Review</a>
 
 
-<h4>Keep Learning!</h4> I'll be there for you in every step of your learning!
+<h4>Keep Learning!<img align="center" src="https://media.giphy.com/media/McDxBilGiX2WaT1YLQ/giphy.gif" height="40" width="" /></h4> I'll be there for you in every step of your learning!
 
  <!--## 🔥 Visitor Count 
  ![Visitor Count](https://profile-counter.glitch.me/{chandrakant22}/count.svg)-->
