@@ -29,7 +29,7 @@ here i learn new skills
 
  <td width="50%">
  <ul>
-<li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 PROGRAMMING WITH PROJECT MASTERCLASS</a></br></li>
+<li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbthU06HkjXkcSK3_3GTfHtC">Python 3 MASTERCLASS WITH PROJECT</a></br></li>
 <li><a href="https://youtu.be/D-z2KLrKTME">C PROGRAMMING WITH PROJECT MASTERCLASS</a></br></li>
 <li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbtzHYXHZJphKwPlRf4M12lV">JAVA PROGRAMMING WITH PROJECT MASTERCLASS</a></br></li>
 <li><a href="https://youtube.com/playlist?list=PLuzT-U16VgbtgfzWUc9lD7uKw3Kfg4udW">Error and Solutions</a></br></li>
