@@ -21,7 +21,7 @@ here i learn new skills
  <h3>Courses 2023</h3>
  </th>
 <th>
-<h3>Blogs</h3>
+<h3>New/Blogs</h3>
 </th>
 </tr>
 
@@ -36,9 +36,11 @@ here i learn new skills
  </td>
  
  <td width="50%">
-<li><a href="https://github.com/chandrakant22/NetFlix-Exploratory-Data-Analysis-and-Data-Visualisation">NetFlix Exploratory Data Analysis and Data Visualisation
+ <li><a href="https://github.com/chandrakant22/Hospital-OPD-Real-time-Dataset-EDA-and-Data-Visualisation">Hospital OPD Real-time Dataset EDA and Data Visualisation
 </a></br></li>
 <li><a href="https://github.com/chandrakant22/NetFlix-Movies-and-TV-shows-EDA-and-Data-Visualisation/">NetFlix Movies & TV shows EDA and Data Visualisation
+</a></br></li>
+<li><a href="https://github.com/chandrakant22/NetFlix-Exploratory-Data-Analysis-and-Data-Visualisation">NetFlix Exploratory Data Analysis and Data Visualisation
 </a></br></li>
  </td>
  
