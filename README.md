@@ -64,7 +64,7 @@ here i learn new skills
 <a href="https://asterisc.in/testimonials/">Website Review</a>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="365"/>
 
-<h4>Keep Learning! & Keep Moving Forward<img align="center" src="https://media.giphy.com/media/McDxBilGiX2WaT1YLQ/giphy.gif" height="40" width="" /></h4> I'll be there for you in every step of your learning!
+<h4>Keep Learning! & Keep Moving Forward<img align="center" src="mario.gif" height="40" width="" /></h4> I'll be there for you in every step of your learning!
 
 
  <!--## 🔥 Visitor Count 
