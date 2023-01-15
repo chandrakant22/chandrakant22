@@ -21,7 +21,7 @@ here i learn new skills
  <h3>Courses 2023</h3>
  </th>
 <th>
-<h3>New/Blogs</h3>
+<h3>New Repository</h3>
 </th>
 </tr>
 
