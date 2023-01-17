@@ -62,10 +62,27 @@ here i learn new skills
 <a href="https://youtube.com/playlist?list=PLuzT-U16Vgbta9Fi_DuwS-jpyjEXyAk4p">Video Review</a> &nbsp;| &nbsp;
 <a href="https://g.page/asterisc-computer?share">Google Review</a> &nbsp;|&nbsp;
 <a href="https://asterisc.in/testimonials/">Website Review</a>
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="365"/>
 
 <h4>Keep Learning! & Keep Moving Forward<img align="center" src="mario.gif" height="40" width="" /></h4> I'll be there for you in every step of your learning!
+<br/>
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="100%"/>
+<br/>
 
+<!--<details open>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+ 
+ //BLOG-POST-LIST:START 
+<p align="left">
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
+
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
+
+  <div><strong>12 Oct 2022</strong></div>
+
+  <br/>Before begining this blog on building a CSS grid scheduler, let’s understand the significance of a CSS grid. During the past few years, the Internet has witnessed a rapid shift in how content...
+</p> <br/> <br/>
+//BLOG-POST-LIST:END -->
+<!--</details>-->
  <!--## 🔥 Visitor Count 
  ![Visitor Count](https://profile-counter.glitch.me/{chandrakant22}/count.svg)-->
