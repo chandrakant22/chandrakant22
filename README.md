@@ -81,6 +81,7 @@ Check out Tutorials listed below:
 - Day 1, check out **[Spring Boot / Requestmapping](https://github.com/chandrakant22/Spring-hibernate-jpa-lombok)**
 - Day 2, check out **[Adv Java / Hibernate](https://github.com/chandrakant22/Hibernate-Day-2)**
 - Day 3, check out **[Spring Boot/ Hibernate / JPA / Lombok](https://github.com/chandrakant22/Spring-hibernate-jpa-lombok)**
+- Day 4, check out **[Spring Boot/ Spring Security / JPA / Lombok](https://github.com/chandrakant22/Spring-Security-Day1)**
 
 
 <!--<details open>
