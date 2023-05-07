@@ -14,6 +14,8 @@ here i learn new skills
 <a href="http://www.technocrat.asterisc.in/">Asterisc Technocrat Pvt. Ltd.</a> and 
 <a href="https://asterisc.in/">Asterisc Computer Institute</a> where i teach new skills.
 
+Community Manager <a href="https://gdgcnagpur.tech/team">Google Developer Groups Cloud Nagpur</a>
+
 Hoddy :
 Collecting coins had become my hobby just because I loved those unique-looking coins.  >> <a href='https://instagram.com/coincollectionbook' >click</a>
 
