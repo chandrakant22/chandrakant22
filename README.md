@@ -69,7 +69,7 @@ Collecting coins had become my hobby just because I loved those unique-looking c
 
 <h4>Keep Learning! & Keep Moving Forward<img align="center" src="mario.gif" height="40" width="" /></h4> I'll be there for you in every step of your learning!
 <br/>
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="100%"/>
+<img src="mario.gif" width="100%"/>
 <br/>
 
 
