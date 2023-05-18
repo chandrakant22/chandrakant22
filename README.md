@@ -67,12 +67,10 @@ Collecting coins had become my hobby just because I loved those unique-looking c
 <a href="https://g.page/asterisc-computer?share">Google Review</a> &nbsp;|&nbsp;
 <a href="https://asterisc.in/testimonials/">Website Review</a>
 
-<h4>Keep Learning! & Keep Moving Forward  ![](mario.gif)
- <!--<img align="center" src="/mario.gif" height="40" width="" />--></h4> I'll be there for you in every step of your learning!
-<br/>
-<img src="mario.gif" width="100%"/>
-<br/>
+<h4>Keep Learning! & Keep Moving Forward <img src="mario.gif" height="40" width=""/></h4>
+I'll be there for you in every step of your learning!
 
+<br/><br/>
 
 Check out Tutorials listed below:
 ### Hibernate:
